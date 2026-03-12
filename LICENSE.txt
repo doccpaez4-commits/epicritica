@@ -1,0 +1,69 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Copyright (c) 2026 Carlos Duván Páez Mora
+Docente — Maestría en Salud Pública
+Fundación Universitaria Área Andina, Bogotá, Colombia
+
+========================================================================
+
+Esta herramienta pedagógica está basada en la obra de:
+  Breilh, J. (2023). Epidemiología crítica y la salud de los pueblos:
+  ciencia ética y valiente en una civilización malsana.
+  Universidad Andina Simón Bolívar.
+  DOI: 10.1093/oso/9780197653586.001.0001
+
+Método HiMupAC desarrollado en:
+  Páez-Mora, C.D. & Cetina-Matallana, K.T. (2025). Historias musicales
+  para el aprendizaje colectivo: una propuesta metodológica de educación
+  para la salud desde el paradigma crítico.
+  Global Health Promotion.
+  DOI: 10.1177/17579759251334393
+
+========================================================================
+
+TÉRMINOS DE LA LICENCIA
+
+Usted es libre de:
+
+  Compartir — copiar y redistribuir el material en cualquier medio
+  o formato.
+
+  Adaptar — remezclar, transformar y construir a partir del material.
+
+Bajo los siguientes términos:
+
+  Atribución (BY) — Debe otorgar el crédito apropiado al autor
+  original (Carlos Duván Páez Mora), proporcionar un enlace a esta
+  licencia, e indicar si se realizaron cambios. Puede hacerlo de
+  cualquier manera razonable, pero no de una manera que sugiera que
+  el autor lo respalda a usted o su uso.
+
+  No Comercial (NC) — No puede utilizar el material con fines
+  comerciales. El uso en instituciones educativas públicas, procesos
+  de formación comunitaria y actividades sin ánimo de lucro está
+  expresamente permitido.
+
+  Sin restricciones adicionales — No puede aplicar términos legales
+  ni medidas tecnológicas que restrinjan legalmente a otros hacer
+  cualquier cosa que la licencia permita.
+
+========================================================================
+
+CÓMO CITAR ESTA HERRAMIENTA
+
+Páez Mora, C.D. (2025). Matriz de Determinación Social & HiMupAC:
+Herramienta pedagógica interactiva para el análisis de la determinación
+social de la salud [Software]. Fundación Universitaria Área Andina.
+Disponible en: https://doccpaez4-commits.github.io/detersocial/
+Licencia: CC BY-NC 4.0
+
+========================================================================
+
+TEXTO LEGAL COMPLETO
+
+El texto legal completo de la licencia Creative Commons
+Attribution-NonCommercial 4.0 International está disponible en:
+
+  https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+========================================================================
